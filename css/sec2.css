@@ -1,5 +1,5 @@
 .sec2 .boxwrap {width:80%; height:500px; margin:0 auto; position:relative;}
-.sec2 .boxwrap .box {width:15vw; height:15vw;
+.sec2 .boxwrap .box {width:15vw; height:15vw; cursor:pointer;
                     border:.5px solid #353535; border-radius:5px;
                     position:absolute; top:50%; left:50%; background:white;
                     transform:translate(-50%,-50%) rotateZ(-45deg);
